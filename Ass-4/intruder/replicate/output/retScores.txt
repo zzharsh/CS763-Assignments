@@ -1,0 +1,4 @@
+
+maskMiddle1.jpg : 0.100
+maskMiddle2.jpg : 0.249
+maskMiddle3.jpg : 0.335
