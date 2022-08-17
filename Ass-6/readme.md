@@ -1,3 +1,3 @@
 # Digital Video Stabilization
 
-<video src="https://drive.google.com/file/d/1yMzC03wO7egwZnNwogASyBgZ1fO7AGCt/view?usp=sharing" width=180/>
+<video src='https://github.com/zzharsh/CS763-Assignments/blob/main/Ass-6/1.avi' width=180/>
