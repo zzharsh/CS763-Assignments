@@ -1,0 +1,12 @@
+1. 
+2022-02-15	14:00:00	17:00:00
+
+2. I used virtualenv for windows as stated in the lab01a: Setup and Ground rules. I used this virtual environment as it will not require me to install another software such as anaconda or spider.
+
+3. We can deactivate a virtual python environment by using the deactivate command. This capability is defined inside the Scripts directory as deactivate.bat. Visual effects: venv will be removed from the prefix, Invisible effects: we will come out of the virtual environment.
+
+4. I installed the latest version of opencv that is 4.5.5.62. I wanted to install version 3.4.2.16 because as stated in the instructions that the SIFT algorithm is not included in newer versions but this gave an error of "No matching distribution found for opencv-python==3.4.2.16" so I installed the latest version.
+
+5. For me it took around 2 hours as the commands for windows did not work as it is and I had to take help from internet (Google, stackexchange).
+
+6. My understanding for contribution section in the readme.txt file is that it should include the specific contribution by me (in percentage and the tasks). I should be able to reproduce my claimed contribution without help of the other team members.
